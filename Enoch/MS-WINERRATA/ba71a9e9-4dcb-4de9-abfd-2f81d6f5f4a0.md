@@ -114,8 +114,8 @@ of this document, see the following ERRATA Archives:</p>
   &quot;SENT&quot;, and the Idle Connection Timer SHOULD&lt;3&gt; be set to an
   implementation-specific value. Otherwise, the Flags field of the message MUST
   be set to 0x0000.&#8203;</p>
-  <p>&#9679;   If the message to be sent was provided with an
-  optional remote memory token to be invalidated on the receiving peer, the
+  <p>&#9679;   If the message to be sent was provided with
+  an optional remote memory token to be invalidated on the receiving peer, the
   token SHOULD be provided in an implementation-specific manner to the RDMA
   provider when sending. If sending of remote invalidation is not supported by
   the RDMA provider, the token MAY be ignored.&#8203;</p>
