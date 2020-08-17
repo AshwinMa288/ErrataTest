@@ -94,8 +94,8 @@ of this document, see the following ERRATA Archives:</p>
   in Connection.SendQueue MUST be incremented by the number of new credits
   returned. &#8203;</p>
   <p>For each message in Connection.SendQueue:&#8203;</p>
-  <p>&#9679;   If Connection.SendCredits is 0, stop
-  processing messages, and break the loop.&#8203;</p>
+  <p>&#9679;   If Connection.SendCredits is 0, stop processing
+  messages, and break the loop.&#8203;</p>
   <p>&#9679;   If Connection.SendCredits is 1 and the
   CreditsGranted field of the message is 0, then at least one credit MUST be
   granted to the peer to prevent deadlock. If the processing specified in
@@ -104,15 +104,16 @@ of this document, see the following ERRATA Archives:</p>
   Connection.SendQueue by the number of new credits returned.&#8203;</p>
   <p>&#9679;   The first message MUST be removed from
   Connection.SendQueue.&#8203;</p>
-  <p>&#9679;   The value of Connection.SendCredits MUST be
+  <p>&#9679;   The value of Connection.SendCredits MUST be
   decremented by one.&#8203;</p>
   <p>&#9679;   The value of the CreditsRequested field of
   the message MUST be set to Connection.SendCreditTarget.&#8203;</p>
-  <p>&#9679;   If Connection.KeepaliveRequested is &quot;PENDING&quot;,
-  the Flags field of the message MUST be set to SMB_DIRECT_RESPONSE_REQUESTED,
-  Connection.KeepaliveRequested MUST be set to &quot;SENT&quot;, and the Idle
-  Connection Timer SHOULD&lt;3&gt; be set to an implementation-specific value.
-  Otherwise, the Flags field of the message MUST be set to 0x0000.&#8203;</p>
+  <p>&#9679;   If Connection.KeepaliveRequested is
+  &quot;PENDING&quot;, the Flags field of the message MUST be set to
+  SMB_DIRECT_RESPONSE_REQUESTED, Connection.KeepaliveRequested MUST be set to
+  &quot;SENT&quot;, and the Idle Connection Timer SHOULD&lt;3&gt; be set to an
+  implementation-specific value. Otherwise, the Flags field of the message MUST
+  be set to 0x0000.&#8203;</p>
   <p>&#9679;   If the message to be sent was provided with
   an optional remote memory token to be invalidated on the receiving peer, the
   token SHOULD be provided in an implementation-specific manner to the RDMA

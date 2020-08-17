@@ -14,8 +14,8 @@ description: "This topic lists the Errata found in the MS-EMFPLUS    document si
    <th>
    <p>This topic lists the Errata found in the MS-EMFPLUS
    document since it was last published. Since this topic is updated
-   frequently, we recommend that you subscribe to these RSS or Atom feeds to receive
-   update notifications.</p>
+   frequently, we recommend that you subscribe to these RSS or Atom feeds to
+   receive update notifications.</p>
    <p>Errata are subject to the same terms as the
    Open Specifications documentation referenced.</p>
    <p> </p>
@@ -57,8 +57,8 @@ of this document, see the following ERRATA Archives:</p>
   <p>2020/07/06</p>
   </td>
   <td>
-  <p>In Section 2.2.3.4, ColorCurveEffect Object, added midtone
-  adjustment range to AdjustmentIntensity field.</p>
+  <p>In Section 2.2.3.4, ColorCurveEffect Object, added
+  midtone adjustment range to AdjustmentIntensity field.</p>
   <p> </p>
   <p>Changed from:</p>
   <p> </p>
@@ -88,7 +88,8 @@ of this document, see the following ERRATA Archives:</p>
     <p>0</p>
     </td>
     <td>
-    <p>A value of 0 specifies that the shadow MUST NOT  change.</p>
+    <p>A value of 0 specifies that the shadow MUST NOT 
+    change.</p>
     </td>
    </tr>
    <tr>
