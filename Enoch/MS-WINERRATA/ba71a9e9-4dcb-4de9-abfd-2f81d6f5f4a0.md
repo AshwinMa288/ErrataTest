@@ -108,12 +108,11 @@ of this document, see the following ERRATA Archives:</p>
   decremented by one.&#8203;</p>
   <p>&#9679;   The value of the CreditsRequested field of
   the message MUST be set to Connection.SendCreditTarget.&#8203;</p>
-  <p>&#9679;   If Connection.KeepaliveRequested is
-  &quot;PENDING&quot;, the Flags field of the message MUST be set to
-  SMB_DIRECT_RESPONSE_REQUESTED, Connection.KeepaliveRequested MUST be set to
-  &quot;SENT&quot;, and the Idle Connection Timer SHOULD&lt;3&gt; be set to an
-  implementation-specific value. Otherwise, the Flags field of the message MUST
-  be set to 0x0000.&#8203;</p>
+  <p>&#9679;   If Connection.KeepaliveRequested is &quot;PENDING&quot;,
+  the Flags field of the message MUST be set to SMB_DIRECT_RESPONSE_REQUESTED,
+  Connection.KeepaliveRequested MUST be set to &quot;SENT&quot;, and the Idle
+  Connection Timer SHOULD&lt;3&gt; be set to an implementation-specific value.
+  Otherwise, the Flags field of the message MUST be set to 0x0000.&#8203;</p>
   <p>&#9679;   If the message to be sent was provided with
   an optional remote memory token to be invalidated on the receiving peer, the
   token SHOULD be provided in an implementation-specific manner to the RDMA
