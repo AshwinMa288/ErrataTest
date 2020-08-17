@@ -97,8 +97,8 @@ of this document, see the following ERRATA Archives:</p>
     <p>0 &lt; value &#8804; 100</p>
     </td>
     <td>
-    <p>As the value increases, the dark areas of the image  SHOULD
-    appear lighter.</p>
+    <p>As the value increases, the dark areas of the image 
+    SHOULD appear lighter.</p>
     </td>
    </tr>
   </table>
@@ -172,7 +172,8 @@ of this document, see the following ERRATA Archives:</p>
     <p>0</p>
     </td>
     <td>
-    <p>A value of 0 specifies that the midtone MUST NOT  change.</p>
+    <p>A value of 0 specifies that the midtone MUST NOT 
+    change.</p>
     </td>
    </tr>
    <tr>
