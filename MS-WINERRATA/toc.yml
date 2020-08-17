@@ -1,0 +1,394 @@
+- name: Open Specifications
+  href: /openspecs/
+  expanded: true
+  items:
+    - name: Protocols
+      href: /openspecs/protocols/ms-protocolslp/9a3ae8a2-02e5-4d05-874a-b3551405d8f9
+      expanded: true
+      items:
+      - name: Windows Protocols
+        href: /openspecs/windows_protocols/MS-WINPROTLP/92b33e19-6fff-496b-86c3-d168206f9845
+        expanded: true
+        items:
+        - name: "[MC-DTCXA]: MSDTC Connection Manager OleTx XA Protocol"
+          href: d3bb15e2-3a12-43b7-9341-101fd60267d5.md
+        - name: "[MC-NBFX]: .NET Binary Format XML Data Structure"
+          href: 6babfe2e-3c59-4ab0-87a2-443f75ea7e8b.md
+        - name: "[MC-NMF]: .NET Message Framing Protocol"
+          href: 872541a4-9fc3-4b15-b716-def7619af7df.md
+        - name: "[MC-PRCR]: Peer Channel Custom Resolver Protocol"
+          href: e95b96e0-2178-4e63-b77f-aed1ffe9037c.md
+        - name: "[MS-ABTP]: Automatic Bluetooth Pairing Protocol"
+          href: 6bb7e60e-a7aa-433f-9bae-0f770d8be3ca.md
+        - name: "[MS-ADA2]: Active Directory Schema Attributes M"
+          href: f3979f77-f842-47e6-b240-93fe50e60bb0.md
+        - name: "[MS-ADA3]: Active Directory Schema Attributes N-Z"
+          href: 59a4f95e-a018-4c2b-a6dc-e1b28dd855b9.md
+        - name: "[MS-ADDM]: Active Directory Web Services: Data Model and Common Elements"
+          href: b4d57374-f685-426f-af16-dea53dccecd6.md
+        - name: "[MS-ADFSOAL]: Active Directory Federation Services OAuth Authorization Code Lookup Protocol"
+          href: e5cdd703-cd33-4c75-be9f-6d4c324b3ec6.md
+        - name: "[MS-ADFSPIP]: Active Directory Federation Services and Proxy Integration Protocol"
+          href: 0e416eab-5392-4819-ba08-384794593dc5.md
+        - name: "[MS-ADFSWAP]: Active Directory Federation Service (AD FS) Web Agent Protocol"
+          href: 97507d00-352e-40b0-ac85-94ee2391c8bc.md
+        - name: "[MS-ADLS]: Active Directory Lightweight Directory Services Schema"
+          href: 1096d246-8f09-430f-9a37-fc7c86f24f18.md
+        - name: "[MS-ADSC]: Active Directory Schema Classes"
+          href: 23692afc-99f5-43fe-bfc2-b904a7bbbe18.md
+        - name: "[MS-ADTS]: Active Directory Technical Specification"
+          href: fe563333-6e4f-4198-9bf5-741a523cd0d7.md
+        - name: "[MS-AIPS]: Authenticated Internet Protocol"
+          href: c4c6251b-2c82-49c2-a006-c6139bf143ae.md
+        - name: "[MS-APDS]: Authentication Protocol Domain Support"
+          href: 3ce764af-3011-40ec-ad15-5c47ae1551f1.md
+        - name: "[MS-AZOD]: Authorization Protocols Overview"
+          href: 9f1b29b1-0460-4da8-bcc0-6710deb089b4.md
+        - name: "[MS-BKRP]: BackupKey Remote Protocol"
+          href: 65bfd84e-4e8e-4113-a9cc-18acc0359447.md
+        - name: "[MS-BKUP]: Microsoft NT Backup File Structure"
+          href: eb869ede-eea7-4358-b489-daaca74eb1e9.md
+        - name: "[MS-CAPR]: Central Access Policy Identifier (ID) Retrieval Protocol"
+          href: 56a528c1-c0ec-45d4-a720-64aa8f6e677f.md
+        - name: "[MS-CDP]: Connected Devices Platform Protocol Version 3"
+          href: e3ee3d1e-2043-4ce1-9043-c15e4d21c230.md
+        - name: "[MS-CHAP]: Extensible Authentication Protocol Method for Microsoft Challenge Handshake Authentication Protocol (CHAP)"
+          href: 240975df-b4f6-4787-9351-8462ee79ec53.md
+        - name: "[MS-CFB]: Compound File Binary File Format"
+          href: c14df6f6-ae1d-45bf-b62f-7b2ed199ba44.md
+        - name: "[MS-CIFS]: Common Internet File System (CIFS) Protocol"
+          href: 7102b33e-75ce-4800-8099-315b812e88fa.md
+        - name: "[MS-CMRP]: Failover Cluster: Management API (ClusAPI) Protocol"
+          href: 9be50d9e-fe1e-489a-b4b4-391ca57e53cb.md
+        - name: "[MS-COMA]: Component Object Model Plus (COMplus) Remote Administration Protocol"
+          href: 5e81fb76-7ea7-4e91-88c0-025081dfef8a.md
+        - name: "[MS-CRTD]: Certificate Templates Structure"
+          href: 6898053e-8726-4209-ade2-37f8b0474c99.md
+        - name: "[MS-CSRA]: Certificate Services Remote Administration Protocol"
+          href: 8d5dba94-8974-4d18-a554-f7b04e7fc112.md
+        - name: "[MS-CSSP]: Credential Security Support Provider (CredSSP) Protocol"
+          href: 6184162e-322b-42da-844d-e80d04e90c93.md
+        - name: "[MS-CSVP]: Failover Cluster: Setup and Validation Protocol (ClusPrep)"
+          href: 3a5aadd1-330f-46f6-af5f-a79fa711c3ae.md
+        - name: "[MS-DCOM]: Distributed Component Object Model (DCOM) Remote Protocol"
+          href: d56b3256-c5ec-486c-8a19-9fc57039d0a8.md
+        - name: "[MS-DFSC]: Distributed File System (DFS) Referral Protocol"
+          href: e4d30eb5-439f-433e-9caa-565fa1204f06.md
+        - name: "[MS-DHCPE]: Dynamic Host Configuration Protocol (DHCP) Extensions"
+          href: f3f648a3-fc38-437e-978b-fda47bdafaf0.md
+        - name: "[MS-DHCPM]: Microsoft Dynamic Host Configuration Protocol (DHCP) Server Management Protocol"
+          href: bd161523-5cdb-4fcb-ad3b-1a75606248fa.md
+        - name: "[MS-DNSP]: Domain Name Service (DNS) Server Management Protocol"
+          href: 7c1732c2-eb0b-4295-9666-34e3683cffc3.md
+        - name: "[MS-DPWSSN]: Devices Profile for Web Services (DPWS) Size Negotiation Extension"
+          href: 7520182a-6e12-4f70-9d11-8c064be4f29a.md
+        - name: "[MS-DRSR]: Directory Replication Service (DRS) Remote Protocol"
+          href: bbbc47b4-79dd-48b7-858f-89d9024fcf32.md
+        - name: "[MS-DTCO]: MSDTC Connection Manager: OleTx Transaction Protocol"
+          href: 8081d645-b524-42e7-9dbe-31e221ee5dc3.md
+        - name: "[MS-DSCPM]: Desired State Configuration Pull Model Protocol"
+          href: f5fc7ae3-9172-41e8-ac6a-2a5a5b7bfaf5.md
+        - name: "[MS-DTYP]: Windows Data Types"
+          href: 11dc2169-6fd7-44a1-b5ac-d8ffed66f39b.md
+        - name: "[MS-DVRD]: Device Registration Discovery Protocol"
+          href: 1961164a-7797-4bd6-ae35-81181b53c419.md
+        - name: "[MS-DVRE]: Device Registration Enrollment Protocol"
+          href: e0cb1b0e-2cea-4a58-bb9e-d7d3f399b40f.md
+        - name: "[MS-DVRJ]: Device Registration Join Protocol"
+          href: eb771148-674a-445c-8173-7a2525dfbb93.md
+        - name: "[MS-ECS]: Enterprise Client Synchronization Protocol"
+          href: 14723ac7-a367-468d-9c69-947e2edcc8e8.md
+        - name: "[MS-EFSR]: Encrypting File System Remote (EFSRPC) Protocol"
+          href: 1929eda3-b5f8-4c50-938e-1f10854a126a.md
+        - name: "[MS-EMF]: Enhanced Metafile Format"
+          href: 18bfa55b-08ac-4e06-bc2b-2f6aa6032b7e.md
+        - name: "[MS-EMFPLUS]: Enhanced Metafile Format Plus Extensions"
+          href: a4fc60b3-edd1-4fde-a639-74ed85e5d0eb.md
+        - name: "[MS-ERREF]: Windows Error Codes"
+          href: 8c03f8cf-6f86-4080-aebc-73591b27899b.md
+        - name: "[MS-EVEN]: EventLog Remoting Protocol"
+          href: 8bdff684-9352-4922-a6e9-06be9e841fa4.md
+        - name: "[MS-EVEN6]: EventLog Remoting Protocol Version 6.0"
+          href: 32f0ad08-a874-45d6-8c79-e96ca18284c2.md
+        - name: "[MS-FASP]: Firewall and Advanced Security Protocol"
+          href: 6521c5c4-1f76-4003-9ade-5cccfc27c8ac.md
+        - name: "[MS-FAX]: Fax Server and Client Remote Protocol"
+          href: 5930f7e5-f415-4e21-abc8-938dc4e00d5a.md
+        - name: "[MS-FRS2]: Distributed File System Replication Protocol"
+          href: da16ad01-081d-47f7-bc37-6a6e3faf3b39.md
+        - name: "[MS-FSA]: File System Algorithms"
+          href: 78a1a199-26c9-42e6-a3ac-4d3ee71dc69b.md
+        - name: "[MS-FSCC]: File System Control Codes"
+          href: 47d52c31-2fa8-4992-91eb-7617117a2214.md
+        - name: "[MS-FSRVP]: File Server Remote VSS Protocol"
+          href: ec0ede0c-bd25-41e1-8027-3a93891c46b9.md
+        - name: "[MS-FSVCA]: File Set Version Comparison Algorithms"
+          href: 111cb2e7-8485-4e58-9f3d-9a7870e97e30.md
+        - name: "[MS-GPPREF]: Group Policy: Preferences Extension Data Structure"
+          href: 2edcbb7b-2138-4af8-98b0-985185ab54d2.md
+        - name: "[MS-GPSB]: Group Policy: Security Protocol Extension"
+          href: 6d6d37ed-3ac2-4a00-b6ba-4ecb38296d90.md
+        - name: "[MS-GPOL]: Group Policy: Core Protocol"
+          href: 708e16da-6ce4-4a11-a719-be72a5ce5231.md
+        - name: "[MS-GPWL]: Group Policy: Wireless/Wired Protocol Extension"
+          href: 0882bd35-2079-4dd2-a851-da939939639e.md
+        - name: "[MS-GSSA]: Generic Security Service Algorithm for Secret Key Transaction Authentication for DNS (GSS-TSIG) Protocol Extension"
+          href: 17ee72a8-4303-4371-a4a5-95ed58400cea.md
+        - name: "[MS-HGSA]: Host Guardian Service: Attestation Protocol"
+          href: 248b7107-73b0-4c5f-b178-6c9d53e74936.md
+        - name: "[MS-HTTPE]: Hypertext Transfer Protocol (HTTP) Extensions"
+          href: 8dd96d51-f98a-4619-aa72-96087826a483.md
+        - name: "[MS-HVRS]: Hyper-V Remote Storage Profile"
+          href: 4f8198f8-af67-47b0-a33e-8ecb57b24c4d.md
+        - name: "[MS-ICPR]: ICertPassage Remote Protocol"
+          href: 9dacdfcc-b003-4489-9951-b7bd0b3aec55.md
+        - name: "[MS-IKEE]: Internet Key Exchange Protocol Extensions"
+          href: 7c953213-d8fd-46d6-a8fe-1b5e2e2fc8c6.md
+        - name: "[MS-IPAMM2]: IP Address Management (IPAM) Management Protocol Version 2"
+          href: 84e2bb09-acee-476d-a0ae-f10f7dd78a57.md
+        - name: "[MS-IPHTTPS]: IP over HTTPS (IP-HTTPS) Tunneling Protocol"
+          href: 27b99897-7996-4149-9b2f-ab75821dc718.md
+        - name: "[MS-IRP]: Internet Information Services (IIS) Inetinfo Remote Protocol"
+          href: ef2b2e0f-6fae-4566-b750-c0ed74aa804d.md
+        - name: "[MS-KILE]: Kerberos Protocol Extensions"
+          href: c982f6c4-2f70-4dc7-b252-09092e9f1eed.md
+        - name: "[MS-KPP]: Key Provisioning Protocol"
+          href: 5bf517fd-8c01-432d-bc80-2ae908f5cfcd.md
+        - name: "[MS-KPS]: Key Protection Service Protocol"
+          href: a1a4a55c-2764-40ef-b45a-a3dd3789f662.md
+        - name: "[MS-LCID]: Windows Language Code Identifier (LCID) Reference"
+          href: 70cb1e2e-848b-40b8-a63f-afb7092dbdc5.md
+        - name: "[MS-LSAD]: Local Security Authority (Domain Policy) Remote Protocol"
+          href: a8fad54f-b56a-4646-a99b-c58478ec3761.md
+        - name: "[MS-LSAT]: Local Security Authority (Translation Methods) Remote Protocol"
+          href: 6bfab471-782b-4579-834c-c44ab85cd8a4.md
+        - name: "[MS-MDE]: Mobile Device Enrollment Protocol"
+          href: 85cd3647-d12b-4f06-9f16-80ccc3a34a4a.md
+        - name: "[MS-MDE2]: Mobile Device Enrollment Protocol Version 2"
+          href: a66b5d6f-6330-46ab-9fa9-34700ee29f63.md
+        - name: "[MS-MDM]: Mobile Device Management Protocol"
+          href: 1732d832-43da-40ed-b950-2d379050d8b7.md
+        - name: "[MS-MICE]: Miracast over infrastructure Connection Establishment Protocol"
+          href: 128b1972-7248-4c32-a497-c224ee0715d4.md
+        - name: "[MS-MSSOD]: Media Streaming Server Protocols Overview"
+          href: 683e87f2-a90d-4c49-8b0a-25800aa869eb.md
+        - name: "[MS-MWBE]: Microsoft Web Browser Federated Sign-On Protocol Extensions"
+          href: 5ea31b60-deb6-47be-8703-939b62e35b57.md
+        - name: "[MS-MWBF]: Microsoft Web Browser Federated Sign-On Protocol"
+          href: b1e9082d-8438-4574-ae70-c2a2aa13b953.md
+        - name: "[MS-NCNBI]: Network Controller Northbound Interface Specification"
+          href: ccf63615-e275-42e4-bc9f-1518ba3662ca.md
+        - name: "[MS-NCT]: Network Cost Transfer Protocol"
+          href: a9638041-483e-409f-b76b-a4a830de8cf9.md
+        - name: "[MS-NFPB]: Near Field Proximity Bidirectional Services Protocol"
+          href: a63d3871-9753-4d50-a1ed-e94fcf08f4dd.md
+        - name: "[MS-NFPS]: Near Field Proximity Sharing Protocol"
+          href: 8b43ff09-e67f-4551-8fff-f3b81ef374f3.md
+        - name: "[MS-NKPU]: Network Key Protector Unlock Protocol"
+          href: 3e89fd17-f246-4d9e-be85-59fddeb1a842.md
+        - name: "[MS-NLMP]: NT LAN Manager (NTLM) Authentication Protocol"
+          href: 9ce693d1-c255-43cf-93be-14dbba80ed51.md
+        - name: "[MS-NMFMB]: .NET Message Framing MSMQ Binding Protocol"
+          href: 929752af-c0f1-44f8-9824-211b2b7995c3.md
+        - name: "[MS-NNS]: .NET NegotiateStream Protocol"
+          href: 1b4d9bf2-0af2-45f0-ac45-774815cf31f7.md
+        - name: "[MS-NRBF]: .NET Remoting: Binary Format Data Structure"
+          href: 3190071b-45d3-4476-9402-0e74f15b7c5a.md
+        - name: "[MS-NRPC]: Netlogon Remote Protocol"
+          href: 69ffd0ac-a0dd-49f2-96ad-6720441b0a93.md
+        - name: "[MS-NSPI]: Name Service Provider Interface (NSPI) Protocol"
+          href: 102411a2-1c1c-4123-859a-a7cb5e45e58f.md
+        - name: "[MS-OAPX]: OAuth 2.0 Protocol Extensions"
+          href: a7e70d82-349b-4b43-90d3-029ccc64a35f.md
+        - name: "[MS-OAPXBC]: OAuth 2.0 Protocol Extensions for Broker Clients"
+          href: ec170978-562d-4087-96e4-a80b10dd9fee.md
+        - name: "[MS-OCSPA]: Microsoft OCSP Administration Protocol"
+          href: 2a7e0802-826e-45e9-9f3b-fa34c0559e7b.md
+        - name: "[MS-OIDCE]: OpenID Connect 1.0 Protocol Extensions"
+          href: 646bc22f-5f0b-4b75-a475-8591ac137ff9.md
+        - name: "[MS-OLEDS]: Object Linking and Embedding (OLE) Data Structures"
+          href: ec21f8ad-0fcf-4d4e-8675-95096e604a3a.md
+        - name: "[MS-OTPCE]: One-Time Password Certificate Enrollment Protocol"
+          href: 7232af19-8a9a-49de-85f0-91e80408820b.md
+        - name: "[MS-PAC]: Privilege Attribute Certificate Data Structure"
+          href: 54e7d766-95ed-4e47-bae3-0904176b5958.md
+        - name: "[MS-PAR]: Print System Asynchronous Remote Protocol"
+          href: 8f7f93d1-4527-4945-9e14-437f90e22149.md
+        - name: "[MS-PEAP]: Protected Extensible Authentication Protocol (PEAP)"
+          href: 136553c8-6f17-43eb-a6a3-085e76358a59.md
+        - name: "[MS-PKAP]: Public Key Authentication Protocol"
+          href: d1a76fb8-7685-4092-82ee-1a52d9813266.md
+        - name: "[MS-PSRDP]: PowerShell Remote Debugging Protocol"
+          href: b28f852c-510c-4c35-9573-eec5d254de16.md
+        - name: "[MS-PSRP]: PowerShell Remoting Protocol"
+          href: c1744f82-44d4-4644-95ca-65c24822980a.md
+        - name: "[MS-RA]: Remote Assistance Protocol"
+          href: cfcbbc3b-0b17-4c25-94f7-09d6d9eb2a9e.md
+        - name: "[MS-RAI]: Remote Assistance Initiation Protocol"
+          href: 89c112a1-1a2a-413c-966e-942082cddb03.md
+        - name: "[MS-RDPADRV]: Remote Desktop Protocol Audio Level and Drive Letter Persistence Virtual Channel Extension"
+          href: 3d261464-7b5e-4d3c-8baa-4676d0645bd7.md
+        - name: "[MS-RDPBCGR]: Remote Desktop Protocol: Basic Connectivity and Graphics Remoting"
+          href: a837c4b6-d2c1-4833-9d0a-e83744882959.md
+        - name: "[MS-RDPEA]: Remote Desktop Protocol: Audio Output Virtual Channel Extension"
+          href: 0fe1aa11-b895-4c77-8dc0-f4de031a4fb6.md
+        - name: "[MS-RDPEAR]: Remote Desktop Protocol Authentication Redirection Virtual Channel"
+          href: 2bb17060-e0cc-4a68-8eb4-c12cfd4ce09b.md
+        - name: "[MS-RDPECLIP]: Remote Desktop Protocol: Clipboard Virtual Channel Extension"
+          href: a0781e8b-c136-41eb-b052-51fb707874a2.md
+        - name: "[MS-RDPECAM]: Remote Desktop Protocol: Video Capture Virtual Channel Extension"
+          href: d69887cd-793a-4117-8cfe-fcdc725df672.md
+        - name: "[MS-RDPEDISP]: Remote Desktop Protocol: Display Update Virtual Channel Extension"
+          href: 2d17ddfe-79e8-4cd9-8b41-6ff5dcc44464.md
+        - name: "[MS-RDPEDYC]: Remote Desktop Protocol: Dynamic Channel Virtual Channel Extension"
+          href: 78e46bc2-4347-4261-921b-76954b109348.md
+        - name: "[MS-RDPEFS]: Remote Desktop Protocol: File System Virtual Channel Extension"
+          href: 389b1d9d-9705-4de9-8bf4-48d24230d7c7.md
+        - name: "[MS-RDPEGDI]: Remote Desktop Protocol: Graphics Device Interface (GDI) Acceleration Extensions"
+          href: b927dc23-1315-43d3-9513-cbdd445ee753.md
+        - name: "[MS-RDPEGFX]: Remote Desktop Protocol: Graphics Pipeline Extension"
+          href: 96525684-2bf0-4169-8ef7-24b7f7b68b3a.md
+        - name: "[MS-RDPEGT]: Remote Desktop Protocol Geometry Tracking Virtual Channel Protocol Extension"
+          href: 24497f8f-453b-4559-9a07-029fa36d99c1.md
+        - name: "[MS-RDPEI]: Remote Desktop Protocol: Input Virtual Channel Extension"
+          href: 93884be6-ae78-4e44-93b1-534938409b3b.md
+        - name: "[MS-RDPELE]: Remote Desktop Protocol: Licensing Extension"
+          href: ed362b53-5426-4b21-9d18-45d0de734718.md
+        - name: "[MS-RDPEMC]: Remote Desktop Protocol: Multiparty Virtual Channel Extension"
+          href: df758ebf-7e6f-4dd9-a89f-e6f2863030e1.md
+        - name: "[MS-RDPEMT]: Remote Desktop Protocol: Multitransport Extension"
+          href: b7db7515-5744-4b73-a5cd-14ff7ab8c3b3.md
+        - name: "[MS-RDPEPC]: Remote Desktop Protocol: Print Virtual Channel Extension"
+          href: 5a52e590-16b9-47e9-8421-a4757a6e7b04.md
+        - name: "[MS-RDPEPNP]: Remote Desktop Protocol: Plug and Play Devices Virtual Channel Extension"
+          href: 7bd4071e-6a20-4077-9c98-a39a2374273e.md
+        - name: "[MS-RDPERP]: Remote Desktop Protocol: Remote Programs Virtual Channel Extension"
+          href: 216fae20-734c-4822-92d6-21f0fcbb9bc9.md
+        - name: "[MS-RDPESC]: Remote Desktop Protocol: Smart Card Virtual Channel Extension"
+          href: e321c06c-9e26-454b-9f01-35d99973524d.md
+        - name: "[MS-RDPESP]: Remote Desktop Protocol: Serial and Parallel Port Virtual Channel Extension"
+          href: f91d012a-be64-47d5-bb99-0a5c8ebd8e52.md
+        - name: "[MS-RDPEUDP]: Remote Desktop Protocol: UDP Transport Extension"
+          href: 2ff1edb2-f07e-4273-978e-fa529fc2dadc.md
+        - name: "[MS-RDPEUDP2]: Remote Desktop Protocol: UDP Transport Extension Version 2"
+          href: 0ce2d7aa-0921-43e6-938c-b07f1e51cecf.md
+        - name: "[MS-RDPEV]: Remote Desktop Protocol: Video Redirection Virtual Channel Extension"
+          href: bfb7eb83-a607-4f21-b722-436e2e316feb.md
+        - name: "[MS-RDPEVOR]: Remote Desktop Protocol: Video Optimized Remoting Virtual Channel Extension"
+          href: 0cd5fc6a-5c44-46ed-a0e1-1a120ff78ebe.md
+        - name: "[MS-RDPEXPS]: Remote Desktop Protocol: XML Paper Specification (XPS) Print Virtual Channel Extension"
+          href: 15f7a831-8b24-4585-8add-1480a7946795.md
+        - name: "[MS-RDPRFX]: Remote Desktop Protocol: RemoteFX Codec Extension"
+          href: 0e77bb05-9962-4ba2-9f22-991ce459447d.md
+        - name: "[MS-RMPR]: Rights Management Services (RMS): Client-to-Server Protocol"
+          href: a2150412-885c-487b-8cd6-2778c9166c40.md
+        - name: "[MS-RMSOD]: Rights Management Services Protocols Overview"
+          href: 2118f73a-9f2f-4080-ac9c-0da8f3af8158.md
+        - name: "[MS-RPCE]: Remote Procedure Call Protocol Extensions"
+          href: 51793a4d-6efa-4ed3-81d6-65e41a3f5826.md
+        - name: "[MS-RPCH]: Remote Procedure Call over HTTP Protocol"
+          href: bb1bc4b7-0e41-47be-86b9-d68bc45648d8.md
+        - name: "[MS-RPRN]: Print System Remote Protocol"
+          href: e6494ac5-0fa2-4430-a4b7-35fe4cf86881.md
+        - name: "[MS-RRASM]: Routing and Remote Access Server (RRAS) Management Protocol"
+          href: 346fd520-ca12-4b5c-82d0-f920f2c81ea2.md
+        - name: "[MS-RRP]: Windows Remote Registry Protocol"
+          href: b125caa1-1cc5-400a-9fe2-b0ed0155cd52.md
+        - name: "[MS-RSMC]: Remote Session Monitoring and Control Protocol"
+          href: 7c458503-9cc3-4b25-b879-fa488ce4df5c.md
+        - name: "[MS-RSVD]: Remote Shared Virtual Disk Protocol"
+          href: 1902a699-2a3a-4694-b669-9ea87b3719bb.md
+        - name: "[MS-SAMR]: Security Account Manager (SAM) Remote Protocol (Client-to-Server)"
+          href: 0e26f360-8a65-4cb7-b416-4a88f2ab7b69.md
+        - name: "[MS-SAMS]: Security Account Manager (SAM) Remote Protocol (Server-to-Server)"
+          href: 35af0de2-ee51-4606-8da7-4ac9e1182b98.md
+        - name: "[MS-SCMR]: Service Control Manager Remote Protocol"
+          href: 8f479518-dba5-445c-849b-940d7c6bcf5a.md
+        - name: "[MS-SHLLINK]: Shell Link (.LNK) Binary File Format"
+          href: 79635665-139f-41bb-9409-4c23c48c7f6e.md
+        - name: "[MS-SFMWA]: Server and File Management Web APIs"
+          href: 2b53df78-6042-4ed8-9cb8-bda9f852fd53.md
+        - name: "[MS-SFU]: Kerberos Protocol Extensions Service for User and Constrained Delegation Protocol"
+          href: 68c4fd08-207c-4353-b59d-4d281edfb6bf.md
+        - name: "[MS-SMB]: Server Message Block (SMB) Protocol"
+          href: 22357375-c01d-4faf-bd36-57708496ce4a.md
+        - name: "[MS-SMB2]: Server Message Block (SMB) Protocol Versions 2 and 3"
+          href: 2cdafcfa-ce51-426a-9678-630a505a1a35.md
+        - name: "[MS-SMBD]: SMB2 Remote Direct Memory Access (RDMA) Transport Protocol"
+          href: ba71a9e9-4dcb-4de9-abfd-2f81d6f5f4a0.md
+        - name: "[MS-SPNG]: Simple and Protected GSS-API Negotiation Mechanism (SPNEGO) Extension"
+          href: 1848997c-5351-48f3-a6ac-30519f41244b.md
+        - name: "[MS-SQOS]: Storage Quality of Service Protocol"
+          href: 606cc339-bd55-486f-8f15-bff5ee4f97e1.md
+        - name: "[MS-SSTP]: Secure Socket Tunneling Protocol (SSTP)"
+          href: e8d7ff1f-813b-4621-835a-c2d7b63c12f6.md
+        - name: "[MS-SSTR]: Smooth Streaming Protocol"
+          href: 1e3cf58a-ee56-4fc9-9933-6ad1e80ae7c9.md
+        - name: "[MS-SWN]: Service Witness Protocol"
+          href: af829e29-ab72-4885-8857-0a6985e7e8e0.md
+        - name: "[MS-TCC]: Tethering Control Channel Protocol"
+          href: 0ce30648-00c1-4410-b227-0347dc426ae0.md
+        - name: "[MS-TDS]: Tabular Data Stream Protocol"
+          href: 491b8609-32bb-43c6-ae6b-3e47dfad2ec1.md
+        - name: "[MS-TLSP]: Transport Layer Security (TLS) Profile"
+          href: c38e7917-7033-46bd-b0f9-02e0f1044121.md
+        - name: "[MS-TPMVSC]: Trusted Platform Module (TPM) Virtual Smart Card Management Protocol"
+          href: 74eaad74-97a7-4a45-adac-e8a818fca1bb.md
+        - name: "[MS-TSCH]: Task Scheduler Service Remoting Protocol"
+          href: b29ef052-5601-4178-bbab-e1afbf20ed88.md
+        - name: "[MS-TSGU]: Terminal Services Gateway Server Protocol"
+          href: 0f9bd10f-ed30-4711-96c5-63f149979bf3.md
+        - name: "[MS-TSTS]: Terminal Services Terminal Server Runtime Interface Protocol"
+          href: 62b57c60-6191-487b-bcd4-84f1611993e9.md
+        - name: "[MS-TSWP]: Terminal Services Workspace Provisioning Protocol"
+          href: 260a57b7-3a6f-4417-a6de-2af993876257.md
+        - name: "[MS-UAMG]: Update Agent Management Protocol"
+          href: aa404930-9891-4692-bd5a-477a9c8318b0.md
+        - name: "[MS-UCODEREF]: Windows Protocols Unicode Reference"
+          href: efe9268d-f5c3-4ad5-99a7-4a90f9d7b72d.md
+        - name: "[MS-VAPR]: Virtual Application Publication and Reporting (App-V) Protocol"
+          href: 6062efa1-3409-41dd-9d7a-d60185b25936.md
+        - name: "[MS-VHDX]: Virtual Hard Disk v2 (VHDX) File Format"
+          href: d5da972b-c182-4c44-91d0-e24cf22c6a40.md
+        - name: "[MS-W32T]: W32Time Remote Protocol"
+          href: 49f7d24a-7141-4fdd-9c40-b9d69ada54c8.md
+        - name: "[MS-WCCE]: Windows Client Certificate Enrollment Protocol"
+          href: c39fd72a-da21-4b13-b329-c35d61f74a60.md
+        - name: "[MS-WCFESAN]: WCF-Based Encrypted Server Administration and Notification Protocol"
+          href: aaef3885-f8b3-4793-9146-dbc392f6cae1.md
+        - name: "[MS-WDSMT]: Windows Deployment Services Multicast Transport Protocol"
+          href: 7d1b7f18-04cf-43ef-babe-dcb9dc9b71e8.md
+        - name: "[MS-WDSOSD]: Windows Deployment Services Operation System Deployment Protocol"
+          href: e20c4c96-2bbc-4afb-ba93-96f5996b25fe.md
+        - name: "[MS-WFDAA]: Wi-Fi Direct (WFD) Application to Application Protocol"
+          href: 4009eda1-2809-4f41-b638-49141ec69480.md
+        - name: "[MS-WFDPE]: Wi-Fi Display Protocol Extension"
+          href: 36891083-0277-4818-aeb4-686fa2c7cb05.md
+        - name: "[MS-WKST]: Workstation Service Remote Protocol"
+          href: f0b7bcfb-7b01-47c1-88ae-afd152525df2.md
+        - name: "[MS-WMIO]: Windows Management Instrumentation Encoding Version 1.0 Protocol"
+          href: 0e31b2f5-5c6d-492e-9fca-54362792fb5b.md
+        - name: "[MS-WMF]: Windows Metafile Format"
+          href: ee184589-56c5-48a3-94ae-15e95f8cb07f.md
+        - name: "[MS-WPO]: Windows Protocols Overview"
+          href: 971b32d0-fa24-4d5c-8fde-c35502b4f95a.md
+        - name: "[MS-WSDS]: WS-Enumeration Directory Services Protocol Extensions"
+          href: d6c914e7-3315-4946-85d6-12133b80cd45.md
+        - name: "[MS-WSMV]: Web Services Management Protocol Extensions for Windows Vista"
+          href: 38119f9a-27a0-46d9-b2ff-f487fdaf794c.md
+        - name: "[MS-WSP]: Windows Search Protocol"
+          href: 52a418c4-7503-4c50-b144-3dc450d5bc98.md
+        - name: "[MS-WSTEP]: WS-Trust X.509v3 Token Enrollment Extensions"
+          href: 2d7f0db9-8fcb-4cde-8182-e3f14568da12.md
+        - name: "[MS-WSUSAR]: Windows Server Update Services: Administrative API Remoting Protocol"
+          href: 16d84531-f393-4d10-8d0e-06d376f179d7.md
+        - name: "[MS-WSUSOD]: Windows Server Update Services Protocols Overview"
+          href: d4d9ba0a-f7fe-4313-a136-2e6a15ae5a34.md
+        - name: "[MS-WSUSSS]: Windows Update Services: Server-Server Protocol"
+          href: b3dafe7d-0352-4a71-b943-233c21a05be0.md
+        - name: "[MS-WUSP]: Windows Update Services: Client-Server Protocol"
+          href: 7468bc26-8a0b-4f6d-8af1-99bd15a73064.md
+        - name: "[MS-XCA]: Xpress Compression Algorithm"
+          href: fcf3306b-da9e-4da5-b8d0-4152db713231.md
+        - name: "[MS-XCEP]: X.509 Certificate Enrollment Policy Protocol"
+          href: 80c07817-1a1a-4530-9051-18d6a80e01d4.md
