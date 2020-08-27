@@ -1,6 +1,6 @@
 ---
 title: "[MS-WINERRATA]: Device Registration Enrollment Protocol"
-description: "This topic lists the Errata found in the MS-DVRE    document since it was last published. Since this topic is updated    frequently, we recommend"
+description: "This topic lists the Errata found in the MS-DVRE    document since it was last published. Since this topic is updated frequently,    we recommend"
 ---
 
 # [MS-DVRE]: Device Registration Enrollment Protocol
@@ -13,9 +13,9 @@ description: "This topic lists the Errata found in the MS-DVRE    document since
   <tr>
    <th>
    <p>This topic lists the Errata found in the MS-DVRE
-   document since it was last published. Since this topic is updated
-   frequently, we recommend that you subscribe to these RSS or Atom feeds to
-   receive update notifications.</p>
+   document since it was last published. Since this topic is updated frequently,
+   we recommend that you subscribe to these RSS or Atom feeds to receive update
+   notifications.</p>
    <p>Errata are subject to the same terms as the
    Open Specifications documentation referenced.</p>
    </th>
