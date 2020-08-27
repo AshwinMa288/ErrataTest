@@ -177,11 +177,11 @@ of this document, see the following ERRATA Archives:</p>
   <p>Changed to:&#8203;</p>
   <p>&#8203;</p>
   <p>...&#8203;</p>
-  <p>If Connection.SendQueue is empty, the credit
-  processing specified in section 3.1.5.9 MUST be performed. If the number of
-  new credits returned is greater than zero, the receiver MUST promptly send a
-  newly constructed Data Transfer message with its CreditsGranted field set to
-  the number of new credits on the Connection, as specified in section 3.1.5.1.
+  <p>If Connection.SendQueue is empty, the credit processing
+  specified in section 3.1.5.9 MUST be performed. If the number of new credits
+  returned is greater than zero, the receiver MUST promptly send a newly
+  constructed Data Transfer message with its CreditsGranted field set to the
+  number of new credits on the Connection, as specified in section 3.1.5.1.
   &#8203;</p>
   <p>...&#8203;</p>
   </td>
