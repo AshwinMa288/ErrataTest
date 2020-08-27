@@ -1,0 +1,1352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocumentFragments entity="66e28e02fee04c0193a64ac9ceea52e2.xml">
+  <Fragment qualifier="66e28e02fee04c0193a64ac9ceea52e2" formattingVersion="1">
+    <w:sdtContent xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+      <w:p />
+      <w:tbl>
+        <w:tblPr>
+          <w:tblStyle w:val="AlertTable" />
+          <w:tblW w:w="0" w:type="auto" />
+          <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1" />
+        </w:tblPr>
+        <w:tblGrid>
+          <w:gridCol w:w="7848" />
+          <w:gridCol w:w="1728" />
+        </w:tblGrid>
+        <w:tr>
+          <w:trPr>
+            <w:tblHeader />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="7848" w:type="dxa" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableHeaderText" />
+              </w:pPr>
+              <w:r>
+                <w:t>This topic lists the Errata found in the MS-CSRA document since it was last published. Since this topic is updated frequently, we recommend that you subscribe to these RSS or Atom feeds to receive update notifications.</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableHeaderText" />
+              </w:pPr>
+              <w:r>
+                <w:t>Errata are subject to the same terms as the Open Specifications documentation referenced.</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1728" w:type="dxa" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableHeaderText" />
+              </w:pPr>
+              <w:r>
+                <w:drawing>
+                  <wp:inline distT="0" distB="0" distL="0" distR="0" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing">
+                    <wp:extent cx="133350" cy="133350" />
+                    <wp:effectExtent l="0" t="0" r="0" b="0" />
+                    <wp:docPr id="125" name="Picture 125" />
+                    <wp:cNvGraphicFramePr>
+                      <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1" />
+                    </wp:cNvGraphicFramePr>
+                    <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                      <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                        <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                          <pic:nvPicPr>
+                            <pic:cNvPr id="0" name="pict0252fef3-2dcd-4788-b006-dd343ff0f6e0" />
+                            <pic:cNvPicPr />
+                          </pic:nvPicPr>
+                          <pic:blipFill>
+                            <a:blip r:embed="pict0252fef3-2dcd-4788-b006-dd343ff0f6e0" GenGkDocImageFileExt=".gif" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+                              <a:extLst>
+                                <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                  <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" />
+                                </a:ext>
+                              </a:extLst>
+                            </a:blip>
+                            <a:stretch>
+                              <a:fillRect />
+                            </a:stretch>
+                          </pic:blipFill>
+                          <pic:spPr>
+                            <a:xfrm>
+                              <a:off x="0" y="0" />
+                              <a:ext cx="133350" cy="133350" />
+                            </a:xfrm>
+                            <a:prstGeom prst="rect">
+                              <a:avLst />
+                            </a:prstGeom>
+                          </pic:spPr>
+                        </pic:pic>
+                      </a:graphicData>
+                    </a:graphic>
+                  </wp:inline>
+                </w:drawing>
+              </w:r>
+              <w:hyperlink w:history="1" GenGkDocTarget="http://blogs.msdn.com/b/protocol_content_errata/rss.aspx" GenGkDocRelType="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink">
+                <w:r>
+                  <w:rPr>
+                    <w:rStyle w:val="Hyperlink" />
+                  </w:rPr>
+                  <w:t>RSS</w:t>
+                </w:r>
+              </w:hyperlink>
+              <w:r>
+                <w:t xml:space="preserve"> </w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableHeaderText" />
+              </w:pPr>
+              <w:r>
+                <w:drawing>
+                  <wp:inline distT="0" distB="0" distL="0" distR="0" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing">
+                    <wp:extent cx="133350" cy="133350" />
+                    <wp:effectExtent l="0" t="0" r="0" b="0" />
+                    <wp:docPr id="124" name="Picture 124" />
+                    <wp:cNvGraphicFramePr>
+                      <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1" />
+                    </wp:cNvGraphicFramePr>
+                    <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                      <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                        <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                          <pic:nvPicPr>
+                            <pic:cNvPr id="0" name="pict307977e0-818a-4332-b5d5-212f27264400" />
+                            <pic:cNvPicPr />
+                          </pic:nvPicPr>
+                          <pic:blipFill>
+                            <a:blip r:embed="pict307977e0-818a-4332-b5d5-212f27264400" GenGkDocImageFileExt=".gif" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+                              <a:extLst>
+                                <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                  <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" />
+                                </a:ext>
+                              </a:extLst>
+                            </a:blip>
+                            <a:stretch>
+                              <a:fillRect />
+                            </a:stretch>
+                          </pic:blipFill>
+                          <pic:spPr>
+                            <a:xfrm>
+                              <a:off x="0" y="0" />
+                              <a:ext cx="133350" cy="133350" />
+                            </a:xfrm>
+                            <a:prstGeom prst="rect">
+                              <a:avLst />
+                            </a:prstGeom>
+                          </pic:spPr>
+                        </pic:pic>
+                      </a:graphicData>
+                    </a:graphic>
+                  </wp:inline>
+                </w:drawing>
+              </w:r>
+              <w:hyperlink w:history="1" GenGkDocTarget="http://blogs.msdn.com/b/protocol_content_errata/atom.aspx" GenGkDocRelType="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink">
+                <w:r>
+                  <w:rPr>
+                    <w:rStyle w:val="Hyperlink" />
+                  </w:rPr>
+                  <w:t>Atom</w:t>
+                </w:r>
+              </w:hyperlink>
+              <w:r>
+                <w:t xml:space="preserve"> </w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+      </w:tbl>
+      <w:p>
+        <w:r>
+          <w:t>To view a PDF file of the errata for the previous versions of this document, see the following ERRATA Archives:</w:t>
+        </w:r>
+      </w:p>
+      <w:p>
+        <w:r>
+          <w:t xml:space="preserve">October 16, 2015 - </w:t>
+        </w:r>
+        <w:hyperlink w:history="1" GenGkDocTarget="http://go.microsoft.com/fwlink/?LinkID=690377" GenGkDocRelType="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink">
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="Hyperlink" />
+            </w:rPr>
+            <w:t>Download</w:t>
+          </w:r>
+        </w:hyperlink>
+      </w:p>
+      <w:p>
+        <w:pPr>
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink" />
+          </w:rPr>
+        </w:pPr>
+        <w:r>
+          <w:t xml:space="preserve">June 30, 2015 - </w:t>
+        </w:r>
+        <w:hyperlink w:history="1" GenGkDocTarget="http://go.microsoft.com/fwlink/?LinkId=617579" GenGkDocRelType="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink">
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="Hyperlink" />
+            </w:rPr>
+            <w:t>Download</w:t>
+          </w:r>
+        </w:hyperlink>
+      </w:p>
+      <w:p>
+        <w:pPr>
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink" />
+          </w:rPr>
+        </w:pPr>
+        <w:r>
+          <w:t xml:space="preserve">July 18, 2016 - </w:t>
+        </w:r>
+        <w:hyperlink w:history="1" GenGkDocTarget="http://go.microsoft.com/fwlink/?LinkId=822549" GenGkDocRelType="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink">
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="Hyperlink" />
+            </w:rPr>
+            <w:t>Download</w:t>
+          </w:r>
+        </w:hyperlink>
+        <w:r>
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink" />
+          </w:rPr>
+          <w:t xml:space="preserve"> </w:t>
+        </w:r>
+      </w:p>
+      <w:p>
+        <w:pPr>
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink" />
+          </w:rPr>
+        </w:pPr>
+        <w:r>
+          <w:t xml:space="preserve">September 12, 2018 - </w:t>
+        </w:r>
+        <w:hyperlink w:history="1" GenGkDocTarget="https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/MS-WINERRATA/[MS-WINERRATA]-180912.pdf" GenGkDocRelType="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink">
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="Hyperlink" />
+            </w:rPr>
+            <w:t>Download</w:t>
+          </w:r>
+        </w:hyperlink>
+      </w:p>
+      <w:p>
+        <w:r>
+          <w:t xml:space="preserve">Errata below are for Protocol Document Version </w:t>
+        </w:r>
+        <w:hyperlink w:history="1" GenGkDocTarget="https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-csra/40e74714-14bf-4f97-a264-35efbd63a813" GenGkDocRelType="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink">
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="Hyperlink" />
+            </w:rPr>
+            <w:t>V38.0 – 2018/09/12</w:t>
+          </w:r>
+        </w:hyperlink>
+        <w:r>
+          <w:t>.</w:t>
+        </w:r>
+      </w:p>
+      <w:tbl>
+        <w:tblPr>
+          <w:tblStyle w:val="Table-ShadedHeader" />
+          <w:tblW w:w="0" w:type="auto" />
+          <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1" />
+        </w:tblPr>
+        <w:tblGrid>
+          <w:gridCol w:w="1740" />
+          <w:gridCol w:w="20074" />
+        </w:tblGrid>
+        <w:tr>
+          <w:trPr>
+            <w:cnfStyle w:val="100000000000" w:firstRow="1" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:oddVBand="0" w:evenVBand="0" w:oddHBand="0" w:evenHBand="0" w:firstRowFirstColumn="0" w:firstRowLastColumn="0" w:lastRowFirstColumn="0" w:lastRowLastColumn="0" />
+            <w:tblHeader />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1740" w:type="dxa" />
+              <w:hideMark />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableHeaderText" />
+              </w:pPr>
+              <w:r>
+                <w:t>Errata Published*</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="20074" w:type="dxa" />
+              <w:hideMark />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableHeaderText" />
+              </w:pPr>
+              <w:r>
+                <w:t>Description</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="0" w:type="auto" />
+              <w:tcBorders>
+                <w:top w:val="single" w:sz="4" w:space="0" w:color="auto" />
+                <w:left w:val="single" w:sz="4" w:space="0" w:color="auto" />
+                <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto" />
+                <w:right w:val="single" w:sz="4" w:space="0" w:color="auto" />
+              </w:tcBorders>
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>2020/08/17</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="0" w:type="auto" />
+              <w:tcBorders>
+                <w:top w:val="single" w:sz="4" w:space="0" w:color="auto" />
+                <w:left w:val="single" w:sz="4" w:space="0" w:color="auto" />
+                <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto" />
+                <w:right w:val="single" w:sz="4" w:space="0" w:color="auto" />
+              </w:tcBorders>
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>In Section 3.1.4.2.15  ICertAdminD2::SetConfigEntry (Opnum 45), removed the row containing 'pwszNodePath is EMPTY and pwszEntry is OCSPURLs' in two tables, as OCSPURLs is an invalid entry.​</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>Changed from:</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+            </w:p>
+            <w:tbl>
+              <w:tblPr>
+                <w:tblStyle w:val="Table-ShadedHeader" />
+                <w:tblW w:w="0" w:type="auto" />
+                <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1" />
+              </w:tblPr>
+              <w:tblGrid>
+                <w:gridCol w:w="3687" />
+                <w:gridCol w:w="3690" />
+              </w:tblGrid>
+              <w:tr>
+                <w:trPr>
+                  <w:cnfStyle w:val="100000000000" w:firstRow="1" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:oddVBand="0" w:evenVBand="0" w:oddHBand="0" w:evenHBand="0" w:firstRowFirstColumn="0" w:firstRowLastColumn="0" w:lastRowFirstColumn="0" w:lastRowLastColumn="0" />
+                  <w:tblHeader />
+                </w:trPr>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3687" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t>Input Parameters</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3690" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve"> Processing rule for pVariant</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+              </w:tr>
+              <w:tr>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3687" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t>…</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3690" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t>…</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+              </w:tr>
+              <w:tr>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3687" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t>pwszNodePath is EMPTY and pwszEntry is "Version"</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3690" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">The CA MUST return the value of the OnNextRestart_Config_Product_Version ADM element as a VARIANT. </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">The vt member of the VARIANT MUST be set to VT_I4 and the lVal member MUST be set to the one of the following values: </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">0x00010001 – Server is Windows 2000 Server operating system </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">0x00020002 – Server is Windows Server 2003 operating system </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">0x00030001 – Server is Windows Server 2008 operating system </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">0x00040001 – Server is Windows Server 2008 R2 operating system </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">0x00050001 – Server is Windows Server 2012 operating system </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">0x00060001 – Server is Windows Server 2012 R2 operating system &lt;72&gt; </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">0x00070001 – Server is Windows Server 2016 operating system </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t>0x00080001 – Server is Windows Server 2019 operating system</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+              </w:tr>
+              <w:tr>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3687" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t>…</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3690" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t>…</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+              </w:tr>
+            </w:tbl>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="0" w:type="auto" />
+              <w:tcBorders>
+                <w:top w:val="single" w:sz="4" w:space="0" w:color="auto" />
+                <w:left w:val="single" w:sz="4" w:space="0" w:color="auto" />
+                <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto" />
+                <w:right w:val="single" w:sz="4" w:space="0" w:color="auto" />
+              </w:tcBorders>
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>2020/07/20</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="0" w:type="auto" />
+              <w:tcBorders>
+                <w:top w:val="single" w:sz="4" w:space="0" w:color="auto" />
+                <w:left w:val="single" w:sz="4" w:space="0" w:color="auto" />
+                <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto" />
+                <w:right w:val="single" w:sz="4" w:space="0" w:color="auto" />
+              </w:tcBorders>
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>In Section 2.2.1.11, added the optional ACCESS_DENIED_CALLBACK_ACE type for all access control entries (ACEs) in the discretionary access control list (DACL), as a security descriptor property for Officer rights and Enrollment Agent rights.</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>​</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>Changed from:</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>"1. AceType 0x9 (ACCESS_ALLOWED_CALLBACK_ACE_TYPE for the ACCESS_ALLOWED_CALLBACK_ACE, [MS-DTYP] section 2.4.4.6)."​</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>Changed to:"1. Either the AceType 0x9 (ACCESS_ALLOWED_CALLBACK_ACE_TYPE for the ACCESS_ALLOWED_CALLBACK_ACE, [MS-DTYP] section 2.4.4.6), or the AceType 0x0A (ACCESS_DENIED_CALLBACK_ACE_TYPE for the ACCESS_DENIED_CALLBACK_ACE, [MS-DTYP] section 2.4.4.7)."</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t> ​</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1740" w:type="dxa" />
+              <w:tcBorders>
+                <w:top w:val="single" w:sz="4" w:space="0" w:color="auto" />
+                <w:left w:val="single" w:sz="4" w:space="0" w:color="auto" />
+                <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto" />
+                <w:right w:val="single" w:sz="4" w:space="0" w:color="auto" />
+              </w:tcBorders>
+              <w:hideMark />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>2019/03/18</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="20074" w:type="dxa" />
+              <w:tcBorders>
+                <w:top w:val="single" w:sz="4" w:space="0" w:color="auto" />
+                <w:left w:val="single" w:sz="4" w:space="0" w:color="auto" />
+                <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto" />
+                <w:right w:val="single" w:sz="4" w:space="0" w:color="auto" />
+              </w:tcBorders>
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>In this document, changed the default value of the CA for Windows Server 2019.</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>In Section 3.1.4.2.14, ICertAdminD2::GetConfigEntry (Opnum 44), changed from:</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>…</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>8.   For each input in the left column of the table below, the CA MUST perform the processing rules in the corresponding cell in the right column.</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+            </w:p>
+            <w:tbl>
+              <w:tblPr>
+                <w:tblStyle w:val="Table-ShadedHeader" />
+                <w:tblW w:w="0" w:type="auto" />
+                <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1" />
+              </w:tblPr>
+              <w:tblGrid>
+                <w:gridCol w:w="3437" />
+                <w:gridCol w:w="3438" />
+              </w:tblGrid>
+              <w:tr>
+                <w:trPr>
+                  <w:cnfStyle w:val="100000000000" w:firstRow="1" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:oddVBand="0" w:evenVBand="0" w:oddHBand="0" w:evenHBand="0" w:firstRowFirstColumn="0" w:firstRowLastColumn="0" w:lastRowFirstColumn="0" w:lastRowLastColumn="0" />
+                  <w:tblHeader />
+                </w:trPr>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3437" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t>Input Parameters</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3438" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve"> Processing rule for pVariant</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+              </w:tr>
+              <w:tr>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3437" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t>…</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3438" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t>…</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+              </w:tr>
+              <w:tr>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3437" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t>pwszNodePath is EMPTY and pwszEntry is "Version"</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3438" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">The CA MUST return the value of the OnNextRestart_Config_Product_Version ADM element as a VARIANT. </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">The vt member of the VARIANT MUST be set to VT_I4 and the lVal member MUST be set to the one of the following values: </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">0x00010001 – Server is Windows 2000 Server operating system </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">0x00020002 – Server is Windows Server 2003 operating system </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">0x00030001 – Server is Windows Server 2008 operating system </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">0x00040001 – Server is Windows Server 2008 R2 operating system </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">0x00050001 – Server is Windows Server 2012 operating system </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">0x00060001 – Server is Windows Server 2012 R2 operating system &lt;72&gt; </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">0x00070001 – Server is Windows Server 2016 operating system </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t>0x00080001 – Server is Windows Server 2019 operating system</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+              </w:tr>
+              <w:tr>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3437" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t>…</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3438" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t>…</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+              </w:tr>
+            </w:tbl>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>Changed to:</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>…</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>8.    For each input in the left column of the table below, the CA MUST perform the processing rules in the corresponding cell in the right column.</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+            </w:p>
+            <w:tbl>
+              <w:tblPr>
+                <w:tblStyle w:val="Table-ShadedHeader" />
+                <w:tblW w:w="0" w:type="auto" />
+                <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1" />
+              </w:tblPr>
+              <w:tblGrid>
+                <w:gridCol w:w="3437" />
+                <w:gridCol w:w="3438" />
+              </w:tblGrid>
+              <w:tr>
+                <w:trPr>
+                  <w:cnfStyle w:val="100000000000" w:firstRow="1" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:oddVBand="0" w:evenVBand="0" w:oddHBand="0" w:evenHBand="0" w:firstRowFirstColumn="0" w:firstRowLastColumn="0" w:lastRowFirstColumn="0" w:lastRowLastColumn="0" />
+                  <w:tblHeader />
+                </w:trPr>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3437" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t>Input Parameters</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3438" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve"> Processing rule for pVariant</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+              </w:tr>
+              <w:tr>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3437" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t>…</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3438" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t>…</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+              </w:tr>
+              <w:tr>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3437" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t>pwszNodePath is EMPTY and pwszEntry is "Version"</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3438" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">The CA MUST return the value of the OnNextRestart_Config_Product_Version ADM element as a VARIANT. </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">The vt member of the VARIANT MUST be set to VT_I4 and the lVal member MUST be set to the one of the following values: </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">0x00010001 – Server is Windows 2000 Server operating system </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">0x00020002 – Server is Windows Server 2003 operating system </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">0x00030001 – Server is Windows Server 2008 operating system </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">0x00040001 – Server is Windows Server 2008 R2 operating system </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">0x00050001 – Server is Windows Server 2012 operating system </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t xml:space="preserve">0x00060001 – Server is Windows Server 2012 R2 operating system &lt;72&gt; </w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t>0x00070001 – Server is Windows Server 2016 operating system or Windows Server 2019 operating system</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+              </w:tr>
+              <w:tr>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3437" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t>…</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+                <w:tc>
+                  <w:tcPr>
+                    <w:tcW w:w="3438" w:type="dxa" />
+                  </w:tcPr>
+                  <w:p>
+                    <w:pPr>
+                      <w:pStyle w:val="TableBodyText" />
+                    </w:pPr>
+                    <w:r>
+                      <w:t>…</w:t>
+                    </w:r>
+                  </w:p>
+                </w:tc>
+              </w:tr>
+            </w:tbl>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>In Section 7, Appendix B: Product Behavior, changed from:</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>&lt;11&gt; Section 3.1.1.10: Microsoft CAs persist only a subset of the configuration data. They store the configuration data in the registry in the following locations:</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>…</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>Version</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>ADM Datum: Config_Product_Version and OnNextRestart_Config_Product_Version</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>Registry Value Type: REG_DWORD</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>Default Value: By default, the value depends on the Windows version:</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>…</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>0x00080001: Windows Server 2019</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>Changed to:</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>&lt;11&gt; Section 3.1.1.10: Microsoft CAs persist only a subset of the configuration data. They store the configuration data in the registry in the following locations:</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>…</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>Version</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>ADM Datum: Config_Product_Version and OnNextRestart_Config_Product_Version</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>Registry Value Type: REG_DWORD</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>Default Value: By default, the value depends on the Windows version:</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>…</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+              <w:r>
+                <w:t>0x00070001: Windows Server 2016 or Windows Server 2019</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="TableBodyText" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+        </w:tr>
+      </w:tbl>
+      <w:p>
+        <w:pPr>
+          <w:rPr>
+            <w:u w:val="single" />
+          </w:rPr>
+        </w:pPr>
+        <w:r>
+          <w:t>*Date format: YYYY/MM/DD</w:t>
+        </w:r>
+      </w:p>
+    </w:sdtContent>
+  </Fragment>
+</DocumentFragments>
