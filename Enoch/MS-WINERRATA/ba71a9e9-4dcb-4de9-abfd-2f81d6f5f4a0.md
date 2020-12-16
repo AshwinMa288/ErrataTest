@@ -14,7 +14,8 @@ description: "This topic lists the Errata found in [MS-SMBD]    since it was las
    <th>
    <p>This topic lists the Errata found in [MS-SMBD]
    since it was last published. Since this topic is updated frequently, we
-   recommend that you subscribe to these RSS or Atom feeds to receive update notifications.</p>
+   recommend that you subscribe to these RSS or Atom feeds to receive update
+   notifications.</p>
    <p>Errata are subject to the same terms as the
    Open Specifications documentation referenced.</p>
    </th>
@@ -107,11 +108,10 @@ of this document, see the following ERRATA Archives:</p>
   <p>&#9679;   The value of the CreditsRequested field of
   the message MUST be set to Connection.SendCreditTarget.&#8203;</p>
   <p>&#9679;   If Connection.KeepaliveRequested is
-  &quot;PENDING&quot;, the Flags field of the message MUST be set to
-  SMB_DIRECT_RESPONSE_REQUESTED, Connection.KeepaliveRequested MUST be set to
-  &quot;SENT&quot;, and the Idle Connection Timer SHOULD&lt;3&gt; be set to an
-  implementation-specific value. Otherwise, the Flags field of the message MUST
-  be set to 0x0000.&#8203;</p>
+  &quot;PENDING&quot;, the Flags field of the message MUST be set to SMB_DIRECT_RESPONSE_REQUESTED,
+  Connection.KeepaliveRequested MUST be set to &quot;SENT&quot;, and the Idle
+  Connection Timer SHOULD&lt;3&gt; be set to an implementation-specific value.
+  Otherwise, the Flags field of the message MUST be set to 0x0000.&#8203;</p>
   <p>&#9679;   If the message to be sent was provided with
   an optional remote memory token to be invalidated on the receiving peer, the
   token SHOULD be provided in an implementation-specific manner to the RDMA
@@ -167,19 +167,19 @@ of this document, see the following ERRATA Archives:</p>
   <p>If Connection.SendQueue is empty, the credit
   processing specified in section 3.1.5.9 MUST be performed. If the number of
   new credits returned is greater than zero, the receiver MUST set
-  Connection.SendImmediate to TRUE and MUST promptly send a Data Transfer message
-  on the Connection, as specified in section 3.1.5.1. &#8203;</p>
+  Connection.SendImmediate to TRUE and MUST promptly send a Data Transfer
+  message on the Connection, as specified in section 3.1.5.1. &#8203;</p>
   <p>&#8203;</p>
   <p>...&#8203;</p>
   <p>&#8203;</p>
   <p>Changed to:&#8203;</p>
   <p>&#8203;</p>
   <p>...&#8203;</p>
-  <p>If Connection.SendQueue is empty, the credit
-  processing specified in section 3.1.5.9 MUST be performed. If the number of
-  new credits returned is greater than zero, the receiver MUST promptly send a
-  newly constructed Data Transfer message with its CreditsGranted field set to
-  the number of new credits on the Connection, as specified in section 3.1.5.1.
+  <p>If Connection.SendQueue is empty, the credit processing
+  specified in section 3.1.5.9 MUST be performed. If the number of new credits
+  returned is greater than zero, the receiver MUST promptly send a newly
+  constructed Data Transfer message with its CreditsGranted field set to the
+  number of new credits on the Connection, as specified in section 3.1.5.1.
   &#8203;</p>
   <p>...&#8203;</p>
   </td>

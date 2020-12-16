@@ -1,6 +1,6 @@
 ---
 title: "[MS-WINERRATA]: Automatic Bluetooth Pairing Protocol"
-description: "This topic lists the Errata found in [MS-ABTP]    since it was last published. Since this topic is updated frequently, we    recommend that you"
+description: "This topic lists the Errata found in [MS-ABTP]    since it was last published. Since this topic is updated frequently, we recommend    that you"
 ---
 
 # [MS-ABTP]: Automatic Bluetooth Pairing Protocol
@@ -13,8 +13,8 @@ description: "This topic lists the Errata found in [MS-ABTP]    since it was las
   <tr>
    <th>
    <p>This topic lists the Errata found in [MS-ABTP]
-   since it was last published. Since this topic is updated frequently, we
-   recommend that you subscribe to these RSS or Atom feeds to receive update
+   since it was last published. Since this topic is updated frequently, we recommend
+   that you subscribe to these RSS or Atom feeds to receive update
    notifications.</p>
    <p>Errata are subject to the same terms as the
    Open Specifications documentation referenced.</p>

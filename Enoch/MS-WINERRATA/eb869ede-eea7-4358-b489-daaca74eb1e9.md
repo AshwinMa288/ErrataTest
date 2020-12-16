@@ -85,7 +85,7 @@ description: "This topic lists the Errata found in the MS-BKUP    document since
   <p> </p>
   <p>0   1   2   3   4   5   6   7   8   9   1</p>
   <p> </p>
-  <p>0   1   2   3   4   5   6   7   8   9   2</p>
+  <p>0   1   2   3   4   5   6   7   8   9   2</p>
   <p> </p>
   <p>0   1   2   3   4   5   6   7   8   9   3</p>
   <p> </p>
@@ -150,7 +150,8 @@ description: "This topic lists the Errata found in the MS-BKUP    document since
   <p>GUID (16 bytes): The GUID identifier of the owner for
   the ghosted extent.</p>
   <p> </p>
-  <p>NextOffset (4 bytes): Offset to the next Extent structure.</p>
+  <p>NextOffset (4 bytes): Offset to the next Extent
+  structure.</p>
   <p> </p>
   <p>Size (4 bytes): Size of the metadata of the ghosted
   extent.</p>
