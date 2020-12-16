@@ -14,14 +14,15 @@ description: "This topic lists the Errata found in [MS-SMBD]    since it was las
    <th>
    <p>This topic lists the Errata found in [MS-SMBD]
    since it was last published. Since this topic is updated frequently, we
-   recommend that you subscribe to these RSS or Atom feeds to receive update
-   notifications.</p>
+   recommend that you subscribe to these RSS or Atom feeds to receive update notifications.</p>
    <p>Errata are subject to the same terms as the
    Open Specifications documentation referenced.</p>
    </th>
    <th>
-   <p><img id="Picture 59" src="ms-winerrata_files/image001.png"><a href="http://blogs.msdn.com/b/protocol_content_errata/rss.aspx">RSS</a> </p>
-   <p><img id="Picture 60" src="ms-winerrata_files/image001.png"><a href="http://blogs.msdn.com/b/protocol_content_errata/atom.aspx">Atom</a> </p>
+   <p><img id="Picture 59" src="MS-WINERRATA_files/image001.png"><span><a href="http://blogs.msdn.com/b/protocol_content_errata/rss.aspx">RSS</a></span>
+   </p>
+   <p><img id="Picture 60" src="MS-WINERRATA_files/image001.png"><span><a href="http://blogs.msdn.com/b/protocol_content_errata/atom.aspx">Atom</a></span>
+   </p>
    <p> </p>
    </th>
   </tr>
@@ -31,15 +32,14 @@ description: "This topic lists the Errata found in [MS-SMBD]    since it was las
 <p>To view a PDF file of the errata for the previous versions
 of this document, see the following ERRATA Archives:</p>
 
-<p>October 16, 2015 - <a href="http://go.microsoft.com/fwlink/?LinkID=690377">Download</a></p>
+<p>October 16, 2015 - <span><a href="http://go.microsoft.com/fwlink/?LinkID=690377">Download</a></span></p>
 
-<p>June 30, 2015 - <a href="http://go.microsoft.com/fwlink/?LinkId=617579">Download</a></p>
+<p>June 30, 2015 - <span><a href="http://go.microsoft.com/fwlink/?LinkId=617579">Download</a></span></p>
 
-<p>Errata below are for Protocol Document Version <a href="https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smbd/1ca5f4ae-e5b1-493d-b87d-f4464325e6e3">V12.0
-– 2018/09/12</a>.</p>
+<p>Errata below are for Protocol Document Version <span><a href="https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smbd/1ca5f4ae-e5b1-493d-b87d-f4464325e6e3">V12.0
+– 2018/09/12</a></span>.</p>
 
-<table>
- <thead>
+<table><thead>
   <tr>
    <th>
    <p>Errata Published*</p>
@@ -48,8 +48,7 @@ of this document, see the following ERRATA Archives:</p>
    <p>Description</p>
    </th>
   </tr>
- </thead>
- <tr>
+ </thead><tbody><tr>
   <td>
   <p>2019/11/11</p>
   </td>
@@ -74,8 +73,7 @@ of this document, see the following ERRATA Archives:</p>
   requesting RDMA direct placement of peer data via the protocol. &#8203;</p>
   <p>...&#8203;</p>
   </td>
- </tr>
- <tr>
+ </tr><tr>
   <td>
   <p>2019/11/11</p>
   </td>
@@ -169,8 +167,8 @@ of this document, see the following ERRATA Archives:</p>
   <p>If Connection.SendQueue is empty, the credit
   processing specified in section 3.1.5.9 MUST be performed. If the number of
   new credits returned is greater than zero, the receiver MUST set
-  Connection.SendImmediate to TRUE and MUST promptly send a Data Transfer
-  message on the Connection, as specified in section 3.1.5.1. &#8203;</p>
+  Connection.SendImmediate to TRUE and MUST promptly send a Data Transfer message
+  on the Connection, as specified in section 3.1.5.1. &#8203;</p>
   <p>&#8203;</p>
   <p>...&#8203;</p>
   <p>&#8203;</p>
@@ -185,8 +183,7 @@ of this document, see the following ERRATA Archives:</p>
   &#8203;</p>
   <p>...&#8203;</p>
   </td>
- </tr>
-</table>
+ </tr></tbody></table>
 
 <p>*Date format: YYYY/MM/DD</p>
 

@@ -20,19 +20,20 @@ description: "This topic lists the Errata found in the MS-BKUP    document since
    Open Specifications documentation referenced.</p>
    </th>
    <th>
-   <p><img id="Picture 362" src="ms-winerrata_files/image002.png"><a href="http://blogs.msdn.com/b/protocol_content_errata/rss.aspx">RSS</a> </p>
-   <p><img id="Picture 357" src="ms-winerrata_files/image002.png"><a href="http://blogs.msdn.com/b/protocol_content_errata/atom.aspx">Atom</a> </p>
+   <p><img id="Picture 362" src="MS-WINERRATA_files/image002.png"><span><a href="http://blogs.msdn.com/b/protocol_content_errata/rss.aspx">RSS</a></span>
+   </p>
+   <p><img id="Picture 357" src="MS-WINERRATA_files/image002.png"><span><a href="http://blogs.msdn.com/b/protocol_content_errata/atom.aspx">Atom</a></span>
+   </p>
    <p> </p>
    </th>
   </tr>
  </thead>
 </table>
 
-<p>Errata below are for Protocol Document Version <a href="https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-bkup/f67950c8-d583-469a-83dd-c4ff4cedf533">V9.0
-– 2018/09/12</a>.</p>
+<p>Errata below are for Protocol Document Version <span><a href="https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-bkup/f67950c8-d583-469a-83dd-c4ff4cedf533">V9.0
+– 2018/09/12</a></span>.</p>
 
-<table>
- <thead>
+<table><thead>
   <tr>
    <th>
    <p>Errata Published*</p>
@@ -41,8 +42,7 @@ description: "This topic lists the Errata found in the MS-BKUP    document since
    <p>Description</p>
    </th>
   </tr>
- </thead>
- <tr>
+ </thead><tbody><tr>
   <td>
   <p>2020/04/27</p>
   </td>
@@ -150,22 +150,19 @@ description: "This topic lists the Errata found in the MS-BKUP    document since
   <p>GUID (16 bytes): The GUID identifier of the owner for
   the ghosted extent.</p>
   <p> </p>
-  <p>NextOffset (4 bytes): Offset to the next Extent
-  structure.</p>
+  <p>NextOffset (4 bytes): Offset to the next Extent structure.</p>
   <p> </p>
   <p>Size (4 bytes): Size of the metadata of the ghosted
   extent.</p>
   <p> </p>
   <p>Data (variable): Metadata of the ghosted extent.</p>
   </td>
- </tr>
- <tr>
+ </tr><tr>
   <td></td>
   <td>
   <p> </p>
   </td>
- </tr>
-</table>
+ </tr></tbody></table>
 
 <p>*Date format: YYYY/MM/DD</p>
 

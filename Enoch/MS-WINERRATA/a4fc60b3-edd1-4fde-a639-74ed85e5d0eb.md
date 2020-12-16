@@ -21,8 +21,10 @@ description: "This topic lists the Errata found in the MS-EMFPLUS    document si
    <p> </p>
    </th>
    <th>
-   <p><img id="Picture 143" src="ms-winerrata_files/image001.png"><a href="http://blogs.msdn.com/b/protocol_content_errata/rss.aspx">RSS</a> </p>
-   <p><img id="Picture 142" src="ms-winerrata_files/image001.png"><a href="http://blogs.msdn.com/b/protocol_content_errata/atom.aspx">Atom</a> </p>
+   <p><img id="Picture 143" src="MS-WINERRATA_files/image001.png"><span><a href="http://blogs.msdn.com/b/protocol_content_errata/rss.aspx">RSS</a></span>
+   </p>
+   <p><img id="Picture 142" src="MS-WINERRATA_files/image001.png"><span><a href="http://blogs.msdn.com/b/protocol_content_errata/atom.aspx">Atom</a></span>
+   </p>
    <p> </p>
    </th>
   </tr>
@@ -32,17 +34,16 @@ description: "This topic lists the Errata found in the MS-EMFPLUS    document si
 <p>To view a PDF file of the errata for the previous versions
 of this document, see the following ERRATA Archives:</p>
 
-<p>October 16, 2015 - <a href="http://go.microsoft.com/fwlink/?LinkID=690377">Download</a></p>
+<p>October 16, 2015 - <span><a href="http://go.microsoft.com/fwlink/?LinkID=690377">Download</a></span></p>
 
-<p>June 30, 2015 - <a href="http://go.microsoft.com/fwlink/?LinkId=617579">Download</a> </p>
+<p>June 30, 2015 - <span><a href="http://go.microsoft.com/fwlink/?LinkId=617579">Download</a></span> </p>
 
-<p>March 4, 2020 - <a href="https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/MS-WINERRATA/%5bMS-WINERRATA%5d-200304.pdf">Download</a></p>
+<p>March 4, 2020 - <span><a href="https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/MS-WINERRATA/%5bMS-WINERRATA%5d-200304.pdf">Download</a></span></p>
 
-<p>Errata below are for Protocol Document Version <a href="https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-emfplus/5f92c789-64f2-46b5-9ed4-15a9bb0946c6">V17.0
-– 2020/03/04</a>.</p>
+<p>Errata below are for Protocol Document Version <span><a href="https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-emfplus/5f92c789-64f2-46b5-9ed4-15a9bb0946c6">V17.0
+– 2020/03/04</a></span>.</p>
 
-<table>
- <thead>
+<table><thead>
   <tr>
    <th>
    <p>Errata Published*</p>
@@ -51,8 +52,7 @@ of this document, see the following ERRATA Archives:</p>
    <p>Description</p>
    </th>
   </tr>
- </thead>
- <tr>
+ </thead><tbody><tr>
   <td>
   <p>2020/07/06</p>
   </td>
@@ -63,8 +63,7 @@ of this document, see the following ERRATA Archives:</p>
   <p>Changed from:</p>
   <p> </p>
   <p>Shadow adjustment range:</p>
-  <table>
-   <thead>
+  <table><thead>
     <tr>
      <th>
      <p>Value</p>
@@ -73,8 +72,7 @@ of this document, see the following ERRATA Archives:</p>
      <p>Meaning</p>
      </th>
     </tr>
-   </thead>
-   <tr>
+   </thead><tbody><tr>
     <td>
     <p>-100 &#8804; value &lt; 0</p>
     </td>
@@ -82,8 +80,7 @@ of this document, see the following ERRATA Archives:</p>
     <p>As the value decreases, the dark areas of the image 
     SHOULD appear darker.</p>
     </td>
-   </tr>
-   <tr>
+   </tr><tr>
     <td>
     <p>0</p>
     </td>
@@ -91,8 +88,7 @@ of this document, see the following ERRATA Archives:</p>
     <p>A value of 0 specifies that the shadow MUST NOT 
     change.</p>
     </td>
-   </tr>
-   <tr>
+   </tr><tr>
     <td>
     <p>0 &lt; value &#8804; 100</p>
     </td>
@@ -100,15 +96,13 @@ of this document, see the following ERRATA Archives:</p>
     <p>As the value increases, the dark areas of the image 
     SHOULD appear lighter.</p>
     </td>
-   </tr>
-  </table>
+   </tr></tbody></table>
   <p> </p>
   <p> </p>
   <p>Changed to:</p>
   <p> </p>
   <p>Shadow adjustment range:</p>
-  <table>
-   <thead>
+  <table><thead>
     <tr>
      <th>
      <p>Value</p>
@@ -117,8 +111,7 @@ of this document, see the following ERRATA Archives:</p>
      <p>Meaning</p>
      </th>
     </tr>
-   </thead>
-   <tr>
+   </thead><tbody><tr>
     <td>
     <p>-100 &#8804; value &lt; 0</p>
     </td>
@@ -126,8 +119,7 @@ of this document, see the following ERRATA Archives:</p>
     <p>As the value decreases, the dark areas of the image 
     SHOULD appear darker.</p>
     </td>
-   </tr>
-   <tr>
+   </tr><tr>
     <td>
     <p>0</p>
     </td>
@@ -135,8 +127,7 @@ of this document, see the following ERRATA Archives:</p>
     <p>A value of 0 specifies that the shadow MUST NOT 
     change.</p>
     </td>
-   </tr>
-   <tr>
+   </tr><tr>
     <td>
     <p>0 &lt; value &#8804; 100</p>
     </td>
@@ -144,11 +135,9 @@ of this document, see the following ERRATA Archives:</p>
     <p>As the value increases, the dark areas of the image 
     SHOULD appear lighter.</p>
     </td>
-   </tr>
-  </table>
+   </tr></tbody></table>
   <p>Midtone adjustment range:</p>
-  <table>
-   <thead>
+  <table><thead>
     <tr>
      <th>
      <p>Value</p>
@@ -157,8 +146,7 @@ of this document, see the following ERRATA Archives:</p>
      <p>Meaning</p>
      </th>
     </tr>
-   </thead>
-   <tr>
+   </thead><tbody><tr>
     <td>
     <p>-100 &#8804; value &lt; 0</p>
     </td>
@@ -166,8 +154,7 @@ of this document, see the following ERRATA Archives:</p>
     <p>As the value decreases, the midtones of the image 
     SHOULD appear darker.</p>
     </td>
-   </tr>
-   <tr>
+   </tr><tr>
     <td>
     <p>0</p>
     </td>
@@ -175,8 +162,7 @@ of this document, see the following ERRATA Archives:</p>
     <p>A value of 0 specifies that the midtone MUST NOT 
     change.</p>
     </td>
-   </tr>
-   <tr>
+   </tr><tr>
     <td>
     <p>0 &lt; value &#8804; 100</p>
     </td>
@@ -184,12 +170,10 @@ of this document, see the following ERRATA Archives:</p>
     <p>As the value increases, the midtones of the image 
     SHOULD appear lighter.</p>
     </td>
-   </tr>
-  </table>
+   </tr></tbody></table>
   <p>
   </td>
- </tr>
-</table>
+ </tr></tbody></table>
 
 <p>*Date format: YYYY/MM/DD</p>
 
